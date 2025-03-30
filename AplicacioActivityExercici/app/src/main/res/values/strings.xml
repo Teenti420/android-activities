@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AplicacioActivityExercici</string>
+    <string name="second_activity_button">Anar a la Segona Activity</string>
+    <string name="main_activity_back_button">Tornar a la Main Activity</string>
+    <string name="third_activity_button">Anar a la Tercera Activity</string>
+    <string name="second_activity_back_button">Tornar a la Second Activity</string>
+</resources>
