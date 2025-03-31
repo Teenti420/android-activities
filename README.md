@@ -2,6 +2,7 @@
 
 ## Què és una Activity?
 
+Enllaç a la [documentació oficial de android](https://developer.android.com/guide/components/activities/intro-activities?hl=es-419)
 A Android, una **Activity** és una de les parts fonamentals d'una aplicació. Representa una pantalla única de la interfície d'usuari (UI). Cada Activity s'associa amb una interfície visual en què els usuaris poden interactuar, com un formulari, un menú o una vista de llista.
 
 ### Cicle de vida d'una Activity
